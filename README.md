@@ -1,0 +1,68 @@
+# TOMORROW X TOGETHER – LO$ER=LO♡ER
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.91] I'm a loser, I'm a loser
+[00:06.18] Ay, oh, yeah, yeah
+[00:15.18] 
+[00:15.17] 회색빛 차를 타고 달아나고 있어
+[00:18.99] 빌어먹을 세상 너머 (oh, oh)
+[00:22.61] 네 손을 잡은 내 손 상처뿐이지만
+[00:26.40] It doesn't matter when I'm with you
+[00:43.90] 
+[00:29.82] 이길 수 없던, fighting, bleeding, losing, 이젠 지쳤어
+[00:34.89] 가질 수 없다면, I freaking keep it low
+[00:38.66] Crying, crying, crying, 이젠 집어쳐
+[00:42.42] Love you, love you, love you, no matter what I do
+[01:06.92] 
+[00:45.73] I say, "Run," 미친 듯 크게 웃어줘
+[00:50.75] 눈물은 이제 goodbye, time to say
+[00:53.90] "Run," 절대 뒤돌아보지 마
+[00:58.51] 두 손엔 hunnit bands (I'm a loser)
+[01:14.01] 
+[01:01.84] I'm a loser (oh), I'm a loser (oh)
+[01:05.90] Lover with a dollar sign (is a loser)
+[01:09.74] I'm a lover (oh), I'm a lover (oh)
+[01:13.62] Lover with a dollar sign (is a loser)
+[01:32.12] 
+[01:17.07] 전쟁 같은 life, 지기만 했었던 나
+[01:20.42] 넌 내 구원이었어 (no doubt, no doubt, no doubt)
+[01:24.83] 벼랑 끝에서, 너의 빛이 나를 이끌어
+[01:28.52] Making me a winner (so right, so right, so right)
+[01:53.02] 
+[01:31.63] 밑바닥에서, crawling, fighting, bleeding, 이젠 지쳤어
+[01:36.01] 거절하겠다면, I freaking take it all
+[01:39.94] Crying, crying, crying, 이젠 집어쳐
+[01:43.88] Love you, love you, love you, no matter what I do
+[02:08.38] 
+[01:47.40] I say, "Run," 미친 듯 크게 웃어줘
+[01:52.38] 눈물은 이제 goodbye, time to say
+[01:55.38] "Run," 절대 뒤돌아보지 마
+[02:00.05] 두 손엔 hunnit bands (I'm a loser)
+[02:15.55] 
+[02:03.44] I'm a loser (oh), I'm a loser (oh)
+[02:07.49] Lover with a dollar sign (is a loser)
+[02:11.14] I'm a lover (oh), I'm a lover (oh)
+[02:15.11] Lover with a dollar sign (is a loser)
+[02:33.61] 
+[02:18.39] 뛰어내려 from this highway, 펼친 채, 부러진 날개
+[02:22.05] 영원을 향해 flyin', 안간힘 써봐도 추락해
+[02:26.12] 너와 함께라면 추락도 아름다워
+[02:29.43] 하늘의 반대편으로, 기꺼이 나 가라앉아
+[02:39.93] 
+[02:32.94] 그저 서로를 안아줬으면 해
+[02:34.99] 내 어설픈 비행 끝날 때쯤엔
+[02:36.64] 모두가 날 비웃어도, I don't care
+[02:38.48] 가라앉고 싶어 너의 바다에
+[02:45.48] 
+[02:40.94] I say, "Run," 미친 듯 크게 웃어줘
+[02:46.24] 눈물은 이제 goodbye, time to say
+[02:49.29] "Run," 절대 뒤돌아보지 마
+[02:53.69] 두 손엔 hunnit bands (I'm a loser)
+[03:09.19] 
+[02:57.25] I'm a loser (oh), I'm a loser (oh)
+[03:01.24] Lover with a dollar sign (is a loser)
+[03:05.01] I'm a lover (oh), I'm a lover (oh)
+[03:08.93] Lover with a dollar sign (is a loser)
+```
