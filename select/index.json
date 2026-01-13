@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "LO$ER=LO♡ER",
+  "base_artist": "TOMORROW X TOGETHER",
+  "createdAt": "2026-01-13T23:34:29.154619Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LO$ER=LO♡ER",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/01_LO$ER=LO♡ER_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LO$ER=LO♡ER",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/02_LO$ER=LO♡ER_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LO$ER=LO♡ER",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/03_LO$ER=LO♡ER_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LO$ER=LO♡ER",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/04_LO$ER=LO♡ER_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LO$ER=LO♡ER",
+      "artist": "Kairo Mouse",
+      "has_synced": true,
+      "path": "select/05_LO$ER=LO♡ER_Kairo_Mouse.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LO$ER=LO♡ER",
+      "artist": "TOMORROW X TOGETHER OFFICIAL",
+      "has_synced": true,
+      "path": "select/06_LO$ER=LO♡ER_TOMORROW_X_TOGETHER_OFFICIAL.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LO$ER=LO♡ER",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/07_LO$ER=LO♡ER_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LO$ER=LO♡ER",
+      "artist": "투모로우바이투게더 (TOMORROW X TOGETHER)",
+      "has_synced": true,
+      "path": "select/08_LO$ER=LO♡ER_투모로우바이투게더_(TOMORROW_X_TOGETHER).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LO$ER=LO♡ER (Paused)",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": true,
+      "path": "select/09_LO$ER=LO♡ER_(Paused)_TOMORROW_X_TOGETHER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LO$ER=LO♡ER",
+      "artist": "TOMORROW X TOGETHER",
+      "has_synced": false,
+      "path": "select/pl_01_LO$ER=LO♡ER_TOMORROW_X_TOGETHER.txt"
+    }
+  ]
+}
